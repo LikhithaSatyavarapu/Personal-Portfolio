@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This digital space is crafted to provi
 1. [Home](#home)
 2. [About Me](#about-me)
 3. [Projects](#projects)
-4. [Education](#education)
+4. [Academics](#academics)
 5. [Skills](#skills)
 6. [Contact](#contact)
 
